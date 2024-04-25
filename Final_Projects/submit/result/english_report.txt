@@ -1,0 +1,47 @@
+WER: 44.329896907216494
+CER: 13.26923076923077
+WACC: 55.670103092783506
+Wrong Pairs (GT -> Pred):
+people -> peoole
+Theyre -> Thecre
+lonely -> lonclg
+Theyre -> Theipre
+someone -> soneone
+they -> theg
+probably -> probablu
+They -> Theg
+believe -> blicve
+They -> Tbeg
+wish -> wisb
+dream -> dbbeofn
+look -> lodk
+the -> che
+window -> wiadow
+whenever -> wbeacvcr
+theyre -> thegre
+or -> ar
+train -> crai
+they -> tnei
+the -> tbe
+people -> oeople
+the -> che
+streets -> strect
+wonder -> wonler
+what -> whot
+through -> chroagh
+They -> Theo
+there -> ckere
+are -> aae
+p -> pe
+them -> then
+Theyre -> Thecpre
+you -> yoi
+could -> coull
+tell -> tel
+them -> chcia
+everyth -> eocrychs
+ing -> in
+they -> tbeu
+understand -> uadorstand
+Youre -> Youjae
+never -> ncver
